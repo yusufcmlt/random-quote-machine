@@ -3,7 +3,7 @@ import "./App.css";
 
 //Quotes json
 const quoteURL =
-  "https://raw.githubusercontent.com/pdouu/random-quote-machine/master/quotes.json";
+  "https://gist.githubusercontent.com/pdouu/721a1680752d7409997d70a666a710ac/raw/325d51aca7165b2498971afcff9bed286a52dc0e/quotes.json";
 
 //Background color gradient
 const backgroundList = [
